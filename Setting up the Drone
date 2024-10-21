@@ -1,8 +1,0 @@
-# Prelude: Forging the Weapon
-In the coding forge of Python, we craft our tools like weapons for an impending aerial battle. 
-The time has come to summon our allies, dronekit and time, to arm ourselves for the skies. 
-With a stroke of code, we bring forth the components needed to control our flying war machines.
-```bash 
-    # Import Necessary Packages
-  from dronekit import connect, VehicleMode, LocationGlobalRelative
-  import time
